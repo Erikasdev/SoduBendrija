@@ -1,0 +1,59 @@
+
+html {
+    font-family: 'Montserrat', sans-serif;
+}
+
+body {
+  background: url(images/Background.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+
+.titleDiv {
+  background-color: #f6f6f6;
+  padding: 50px 0 50px 0;
+  display: block;
+  text-align: center;
+}
+
+.titleMain {
+  font-family: 'Montserrat', sans-serif;
+}
+
+.mainDiv {
+  font-family: 'Montserrat', sans-serif;
+  align-self: center;
+  padding: 100px 300px 100px 300px;
+  margin: auto;
+  background-color: white;
+  opacity: 0.8;
+}
+
+.pageTitle {
+  font-family: 'Montserrat', sans-serif;
+  padding: 50px 0 100px 0;
+  text-align: center;
+}
+
+.kontaktas {
+  padding: 20px 50px;
+  text-align: center;
+  display: inline;
+  margin: auto;
+}
+
+.columnsAll {
+  font-size: 15px;
+  display: inline-block;
+  padding: 50px 0;
+  text-align: center;
+  margin: auto;
+}
+
+.nestedDiv {
+  margin: auto;
+
+}
