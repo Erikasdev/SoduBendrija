@@ -13,14 +13,17 @@ body {
 
 
 .titleDiv {
-  background-color: #f6f6f6;
   padding: 50px 0 50px 0;
   display: block;
   text-align: center;
 }
 
 .titleMain {
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Kaushan Script', cursive;
+  display: inline;
+  color: #ecdfc8;
+  text-shadow: 4px 4px 0 #024249, 1px -1px 0 #024249, -1px 1px 0 #024249, 1px 1px 0 #024249;
+  font-size: 100px;
 }
 
 .mainDiv {
